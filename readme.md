@@ -1,4 +1,2 @@
 # new project
-this is new project created by me.
-created by pratyaksh.
-# feature
+this is new project created by -main.
